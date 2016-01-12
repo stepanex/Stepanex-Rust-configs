@@ -11,16 +11,4 @@
   
   
   I also recommend reading, editing and then using settings.cfg, read settings_readme!
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  I'm taking none responsibility for damage done by this config, but I will of course try to help you
+  If you will need help add me on steam: http://steamcommunity.com/id/stepanex/
