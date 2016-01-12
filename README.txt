@@ -6,7 +6,8 @@
   		  	For Best graphics: exec graphics_best.cfg
   		  	For Medium graphics: exec graphics_medium.cfg
   		  	For Worst graphics: exec graphics_worst.cfg
-  			
+  		  	
+  I recommend medium or worst graphics
   After that, everything should be alright and working, now you can join server
   
   You can of course edit the configs. Each command is described. Mostly the lower number you put in, the lower graphic you will have → more fps. Main fps-eater commands are: 
