@@ -9,6 +9,12 @@
   			
   After that, everything should be alright and working, now you can join server
   
+  You can of course edit the configs. Each command is described. Mostly the lower number you put in, the lower graphic you will have → more fps. Main fps-eater commands are: 
+                                        graphics.quality  - this is the overall graphic quality<0 - 5>
+                                        effects.aa      - antialising   <true or false>
+                                        graphics.af     - antisotropic filtering <1 - 16>
+                                        graphics.shaderlod  - shader level <0 - 600>
+                                        effects.maxgibs - number of maximum bits of small objects that will be rendered arround you
   
   I also recommend reading, editing and then using settings.cfg, read settings_readme!
-  If you will need help add me on steam: http://steamcommunity.com/id/stepanex/
+  If you will need help or you will find a way to improve configs, add me on steam: http://steamcommunity.com/id/stepanex/
